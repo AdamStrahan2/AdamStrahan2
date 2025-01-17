@@ -5,12 +5,33 @@ I'm Adam Strahan and I'm a software developer.
 Born and raised in Ireland, but currently looking at new job opportunies at home or abroad.
 
 I have a Bachelor of Science in Sotware Development from the South East Technological University in Ireland as well as 3 years professional experience working as a private contractor for the public sector. As such, I have experience with the full developement lifecycle, from concept and design to testing and maintenance. These years saw me working with and honing my skills in various languages, technologies, frameworks and methodologies, such as:
-- Java              - JavaScript              - Weblogic                - Bamboo                - Unity Engine                                         
-- Spring            - C++                     - SVN                     - JUnit                 - Virtual Reality Development
-- PHP               - C#                      - Agile Development       - Selenium              - Full Stack Development
-- HTML5             - JSON                    - Scrum                   - Python                
-- CSS               - RESTful Development     - Kanban                  - Microsoft Office
-- Angular           - CI/CD                   - GitHub                  - Data Analysis
+- Java                                                                                                    
+- Spring                                                                       
+- PHP                                                        
+- HTML5                                                                  
+- CSS                                      
+- Angular                                               
+- JavaScript
+- C++
+- C# 
+- JSON 
+- RESTful Development
+- CI/CD 
+- Weblogic
+- Bamboo 
+- JUnit
+- Selenium 
+- SVN
+- GitHub
+- Full Stack Development
+- Agile Development
+- Scrum
+- Kanban
+- Python 
+- Microsoft Office
+- Data Analysis
+- Unity Engine
+- Virtual Reality Development
 
 From a more personal point of view, I'm a huge gamer and film fanatic! My dream is to build my own video game with a focus on making a fun and addictive gameplay loop along with an exciting story, but small in scope as I am only one person. Some examples of gameplay loops that I find really enticing are Metal Gear Solid 5 and the Persona series. I would like to take inspiration from the way these games tie their gameplay mechanics together to create a larger loop that makes it easy to lose hours in.
 
